@@ -1,6 +1,6 @@
 ### Hi, I'm Squery
-## I'm a bad dev but i always try to learn new things, from coding to cybersecurity
-## Hope one of my repo has been useful for you (even if i highly doubt this will be the case for anyone)
+#### I'm a bad dev but i always try to learn new things, from coding to cybersecurity
+#### Hope one of my repo has been useful for you (even if i highly doubt this will be the case for anyone)
 
 ## &#x1f4c8; GitHub Stats:
 
