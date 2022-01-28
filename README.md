@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Squerys/Squerys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## &#x1f4c8; GitHub Stats:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+<a href="https://github.com/NightFrost1337">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightFrost1337&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</>
+<a href="https://github.com/NightFrost1337">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NightFrost1337&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Crypt0's GitHub Stats" />
+</a>
+<br>
+<a href="https://github.com/NightFrost1337">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NightFrost1337&theme=dark&background=1D1F21" />
+<a/>
+<br>
+</h1>
