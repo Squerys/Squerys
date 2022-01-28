@@ -17,7 +17,7 @@
 <a/>
 <br>
 </h1>
-<table width="100%"> 
+<table align="center" width="100%"> 
   <tr>
   <td width="100%">
 
