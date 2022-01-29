@@ -13,12 +13,11 @@
 </a>
 <br>
 <a href="https://github.com/Squerys">
-  <br> [![Spotify](https://squerys.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/b1to01nn9dp4mzoyq0f0drsfs)
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=dark&background=1D1F21" />
 <a/>
 <br>
 </h1>
-## What i'm currently listnening to : 
+#### What i'm currently listnening to : 
 <table width="100%"> 
   <tr>
   <td width="100%">
