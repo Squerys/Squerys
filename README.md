@@ -18,9 +18,9 @@
 <br>
 </h1>
 #### What i'm currently listnening to : 
-<table width="100%"> 
+<table align="center" width="100%"> 
   <tr>
-  <td align="center" width="100%">
+  <td width="100%">
     
 &nbsp; <br> [![Spotify](https://squerys.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/b1to01nn9dp4mzoyq0f0drsfs)
     
