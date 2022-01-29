@@ -14,7 +14,7 @@
 <br>
 <a href="https://github.com/Squerys">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=dark&background=1D1F21" />
-<a/>
+</a>
 <br>
 </h1>
 #### What i'm currently listnening to : 
