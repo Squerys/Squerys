@@ -19,7 +19,7 @@
 </h1>
 
 
-## :musical_note:; What i'm currently listnening to : 
+## :musical_note: What i'm currently listnening to : 
 
 <table align="center" width="100%"> 
   <tr>
