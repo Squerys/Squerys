@@ -21,5 +21,6 @@
 <table align="center" width="100%"> 
   <td>
     <br> [![Spotify](https://squerys.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/b1to01nn9dp4mzoyq0f0drsfs)
+    &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
   </td>
 
