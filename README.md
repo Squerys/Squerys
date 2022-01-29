@@ -16,8 +16,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=dark&background=1D1F21" />
 </a>
 </br>
-#### I use mainly C++, C#, Python and Batch, but i'm on my way to learn new langages
 </h1>
+
+#### I use mainly C++, C#, Python and Batch, but i'm on my way to learn new langages
 
 
 ## :musical_note: What i'm currently listnening to : 
