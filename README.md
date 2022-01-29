@@ -18,10 +18,10 @@
 </br>
 </h1>
 
-## I use mainly C++, C#, Python and Batch, but i'm on my way to learn new langages
+#### I use mainly C++, C#, Python and Batch, but i'm on my way to learn new langages
 
 
-## :musical_note: What i'm currently listnening to : 
+### :musical_note: What i'm currently listnening to : 
 
 <table align="center" width="100%"> 
   <tr>
