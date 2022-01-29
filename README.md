@@ -19,9 +19,12 @@
 <br>
 </h1>
 ##What i'm currently listnening to : 
-<table align="center" width="100%"> 
+<table width="100%"> 
   <tr>
-  <td>
-    &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+
   </td>
+  <td width="50%">
 
