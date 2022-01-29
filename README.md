@@ -21,6 +21,6 @@
 <table align="center" width="100%"> 
   <tr>
   <td width="100%">
-[![Spotify](https://squerys.vercel.app/api/spotify)](https://open.spotify.com/user/b1to01nn9dp4mzoyq0f0drsfs)
+```[![Spotify](https://squerys.vercel.app/api/spotify)](https://open.spotify.com/user/b1to01nn9dp4mzoyq0f0drsfs)```
   </td>
 
