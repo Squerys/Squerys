@@ -6,14 +6,14 @@
 
 <h1 align="center">
 <a href="https://github.com/Squerys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squerys&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></img>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squerys&hide=java,html&&theme=synthwave"></img>
 </a>
 <a href="https://github.com/Squerys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Squerys&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Squery's GitHub Stats"></img>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Squerys&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Squery's GitHub Stats"></img>
 </a>
 <br>
 <a href="https://github.com/Squerys">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=synthwave" />
 </a>
 </br>
 </h1>
