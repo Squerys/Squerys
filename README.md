@@ -13,7 +13,7 @@
 </a>
 <br>
 <a href="https://github.com/Squerys">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=dark&background=1D1F21" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=synthwave" />
 </a>
 </br>
 </h1>
