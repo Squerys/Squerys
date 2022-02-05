@@ -27,7 +27,7 @@
   <tr>
   <td width="100%">
     
-&nbsp; <br> [![Spotify](https://squerys.vercel.app/api/spotify?background_color=00050c&border_color=00f5ff)](https://open.spotify.com/user/b1to01nn9dp4mzoyq0f0drsfs)
+&nbsp; <br> [![Spotify](https://squerys.vercel.app/api/spotify?background_color=00050c&border_color=00dc22)](https://open.spotify.com/user/b1to01nn9dp4mzoyq0f0drsfs)
     
   </td>
 
