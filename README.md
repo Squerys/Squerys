@@ -9,11 +9,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squerys&hide=java,html&&theme=synthwave"></img>
 </a>
 <a href="https://github.com/Squerys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Squerys&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Squery's GitHub Stats"></img>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Squerys&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Squery's GitHub Stats"></img>
 </a>
 <br>
 <a href="https://github.com/Squerys">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=synthwave" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=dark" />
 </a>
 </br>
 </h1>
