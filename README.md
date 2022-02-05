@@ -6,7 +6,7 @@
 
 <h1 align="center">
 <a href="https://github.com/Squerys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squerys&hide=java,html&&theme=synthwave"></img>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squerys&hide=java,html&&theme=dark"></img>
 </a>
 <a href="https://github.com/Squerys">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Squerys&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Squery's GitHub Stats"></img>
