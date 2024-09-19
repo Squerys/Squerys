@@ -15,9 +15,9 @@
 <a href="https://github.com/Squerys">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=dark" />
 </a>
+<br>
 <a href="https://www.root-me.org/Squery?lang=fr#61c679f04db1ca2c47379a5b612634c7">
   <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Squery"/>
-</br>
 </h1>
 
 #### I use mainly C++, C#, Python and Batch, but i'm on my way to learn new langages
