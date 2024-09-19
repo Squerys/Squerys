@@ -23,7 +23,7 @@
   <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Squery"/>
 </a>
 
-#### I use mainly C++, C#, Python and Batch, but i'm on my way to learn new langages
+## I use mainly C++, C#, Python and Batch, but i'm on my way to learn new langages
 
 
 ### :musical_note: What i'm currently listnening to : 
