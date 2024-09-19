@@ -16,8 +16,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Squerys&theme=dark" />
 </a>
 <a href="https://www.root-me.org/Squery?lang=fr#61c679f04db1ca2c47379a5b612634c7">
-  ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Squery)
-</a>
+  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=Squery"/>
 </br>
 </h1>
 
