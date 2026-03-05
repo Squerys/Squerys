@@ -26,7 +26,6 @@
     <img align="center" src="https://root-me-diff.vercel.app/rm-gh?nickname=Squery"/>
   </a>
 </h1>
-<br>
 
 ### &#x1F3B5; What I'm currently listening to :
 <br>
