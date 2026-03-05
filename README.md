@@ -23,12 +23,12 @@
 
 <h1 align="center">
   <a href="https://www.root-me.org/Squery?lang=fr#61c679f04db1ca2c47379a5b612634c7">
-    <img align="center" src="https://root-me-diff.vercel.app/rm-gh?nickname=Squery"/>
+    <img align="center" src="https://root-me-diff.vercel.app/rm-gh?nickname=Squery&style=dark&gstats=show"/>
   </a>
-  <br>
 </h1>
 
 ### &#x1F3B5; What I'm currently listening to :
+
 <br>
 <p align="center">
   <a href="https://open.spotify.com/user/b1to01nn9dp4mzoyq0f0drsfs">
