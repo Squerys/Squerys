@@ -24,8 +24,8 @@
 <h1 align="center">
   <a href="https://www.root-me.org/Squery?lang=fr#61c679f04db1ca2c47379a5b612634c7">
     <img align="center" src="https://root-me-diff.vercel.app/rm-gh?nickname=Squery"/>
-    <br>
   </a>
+  <br>
 </h1>
 
 ### &#x1F3B5; What I'm currently listening to :
