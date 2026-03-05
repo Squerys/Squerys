@@ -26,9 +26,11 @@
     <img align="center" src="https://root-me-diff.vercel.app/rm-gh?nickname=Squery"/>
   </a>
 </h1>
+
 ## I use mainly C++, C#, Python and Batch, but i'm on my way to learn new langages
 
-### &#x1F3B5 What I'm currently listening to :
+### &#x1F3B5; What I'm currently listening to :
+
 <p align="center">
   <a href="https://open.spotify.com/user/b1to01nn9dp4mzoyq0f0drsfs">
     <img src="https://squerys.vercel.app/api/spotify?background_color=00050c&border_color=00dc22" alt="Spotify Widget">
