@@ -55,8 +55,11 @@ def recentlyPlayed():
     token = refreshToken()
     headers = {"Authorization": f"Bearer {token}"}
     response = requests.get(RECENTLY_PLAYING_URL, headers=headers)
-
     if response.status_code == 204:
+        return {}
+    if response.status_code != 200:
+        print(f"ERREUR SPOTIFY NOW PLAYING: Code {response.status_code}")
+        print(f"MESSAGE SPOTIFY: {response.text}")
         return {}
     return response.json()
 
@@ -65,8 +68,11 @@ def nowPlaying():
     token = refreshToken()
     headers = {"Authorization": f"Bearer {token}"}
     response = requests.get(NOW_PLAYING_URL, headers=headers)
-
     if response.status_code == 204:
+        return {}
+    if response.status_code != 200:
+        print(f"ERREUR SPOTIFY NOW PLAYING: Code {response.status_code}")
+        print(f"MESSAGE SPOTIFY: {response.text}")
         return {}
     return response.json()
 
