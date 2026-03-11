@@ -28,7 +28,7 @@
 </h1>
 
 ### &#x1F3B5; What I'm currently listening to :
-
+<code>Fuck you Spotify, no one's paying for your API. Powered by Last.fm (for free). 🖕</code>
 <br>
 <p align="center">
   <a href="https://open.spotify.com/user/b1to01nn9dp4mzoyq0f0drsfs">
